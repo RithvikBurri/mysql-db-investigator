@@ -1,4 +1,4 @@
-# MySQL DB Investigator
+# Database Investigator
 Interactive Python-based MySQL database search engine that dynamically explores unknown schemas and performs intelligent keyword searches across all tables and columns. Enables users to uncover relevant records without needing prior knowledge of the database structure.
 
 ## Purpose
