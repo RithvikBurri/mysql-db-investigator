@@ -14,7 +14,7 @@ Throughout the development of this project, I gained hands-on experience and str
 * **Error Handling & Resilience:** Graceful handling of unsupported types and query failures  
 * **User Experience Design:** Clear prompts, informative feedback, and result displays  
 * **Tool Adaptability:** Universal design for any MySQL database structure
-<br>
+
 <br>
 
 # Instructions: Setup and Run
