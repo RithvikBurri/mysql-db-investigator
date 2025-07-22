@@ -15,9 +15,10 @@ Throughout the development of this project, I gained hands-on experience and str
 * **User Experience Design:** Clear prompts, informative feedback, and result displays  
 * **Tool Adaptability:** Universal design for any MySQL database structure  
 
-# MySQL DB Investigator
+# Instructions: Setup and Run
 
-This project uses an example **employee database**, but the Python script can be adapted to work with **any MySQL database**. Just update the queries and schema references in `investigator.py`.
+Follow these steps to set up and run the MySQL DB Investigator locally.
+This project uses an example employee database, but the Python script can be adapted to work with any MySQL database — simply update the queries and schema references in `investigator.py`.
 
 ## 1. Clone the Repository
 
