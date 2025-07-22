@@ -16,6 +16,7 @@ Throughout the development of this project, I gained hands-on experience and str
 * **Tool Adaptability:** Universal design for any MySQL database structure
 <br>
 <br>
+
 # Instructions: Setup and Run
 
 Follow these steps to set up and run the MySQL DB Investigator locally.
