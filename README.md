@@ -8,7 +8,7 @@ Demonstrates practical skills in MySQL integration, automated schema discovery, 
 Throughout the development of this project, I gained hands-on experience and strengthened my skills in:
 
 * **Database Management:** MySQL connections, schema discovery, and query generation  
-* **Python Programming:** Modular design and interactive CLI applications  
+* **Python Programming:** Modular design and interactive CLI applications using PyCharm IDE  
 * **Dynamic Schema Analysis:** Automated table/column mapping across database structures  
 * **Search Algorithm Development:** Flexible keyword-based search using LIKE queries  
 * **Error Handling & Resilience:** Graceful handling of unsupported types and query failures  
